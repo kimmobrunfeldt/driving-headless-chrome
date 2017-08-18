@@ -1,0 +1,26 @@
+{
+  "name": "driving-headless-chrome",
+  "version": "1.0.0",
+  "description": "Material for my talk Driving headless Chrome with Chromeless",
+  "main": "render-receipt.js",
+  "scripts": {
+    "test": "mocha --timeout 20000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimmobrunfeldt/driving-headless-chrome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimmobrunfeldt/driving-headless-chrome/issues"
+  },
+  "homepage": "https://github.com/kimmobrunfeldt/driving-headless-chrome#readme",
+  "dependencies": {
+    "chromeless": "^1.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
