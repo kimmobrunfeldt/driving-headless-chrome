@@ -39,7 +39,7 @@ Two options
 * Remote e.g. in AWS Lambda
 
 
-## What can you do??
+## What can you do?
 
 Anything!
 

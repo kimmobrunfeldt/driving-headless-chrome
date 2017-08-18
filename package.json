@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha --timeout 20000",
     "test-simple": "mocha --timeout 20000 -g simple",
-    "test-example": "mocha --timeout 20000 -g alvarcarto"
+    "test-example": "mocha --timeout 20000 -g alvarcarto",
+    "generate-slides": "markdown-to-slides -d README.md -o slides.html"
   },
   "repository": {
     "type": "git",
