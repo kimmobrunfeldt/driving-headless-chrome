@@ -1,5 +1,5 @@
 const { expect } = require('chai');
-const { Chromeless, ChromelessOptions } = require('chromeless');
+const { Chromeless } = require('chromeless');
 
 const KEY_CODE_ENTER = 13;
 
@@ -12,7 +12,7 @@ function getPosterHeaderText(headerId) {
 }
 
 describe('Chromeless', () => {
-    it('example', async () => {
+    it('alvarcarto', async () => {
         const chromeless = new Chromeless({
           launchChrome: false,
           viewport: {

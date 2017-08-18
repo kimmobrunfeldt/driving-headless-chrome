@@ -28,6 +28,16 @@ WWWeeklies introduction to [Chromeless](https://github.com/graphcool/chromeless)
 
 (There's a good picture of it in the Chromeless repo)
 
+## Installing
+
+Two options
+
+* Local
+
+  I recommend setting alias for canary which you can start in terminal
+
+* Remote e.g. in AWS Lambda
+
 
 ## What can you do??
 
